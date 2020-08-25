@@ -1,0 +1,13 @@
+D:\Tutorials\delegate\obj\Debug\netcoreapp3.1\delegate.csprojAssemblyReference.cache
+D:\Tutorials\delegate\obj\Debug\netcoreapp3.1\delegate.csproj.CoreCompileInputs.cache
+D:\Tutorials\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfoInputs.cache
+D:\Tutorials\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfo.cs
+D:\Tutorials\delegate\bin\Debug\netcoreapp3.1\delegate.exe
+D:\Tutorials\delegate\bin\Debug\netcoreapp3.1\delegate.deps.json
+D:\Tutorials\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.json
+D:\Tutorials\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.dev.json
+D:\Tutorials\delegate\bin\Debug\netcoreapp3.1\delegate.dll
+D:\Tutorials\delegate\bin\Debug\netcoreapp3.1\delegate.pdb
+D:\Tutorials\delegate\obj\Debug\netcoreapp3.1\delegate.dll
+D:\Tutorials\delegate\obj\Debug\netcoreapp3.1\delegate.pdb
+D:\Tutorials\delegate\obj\Debug\netcoreapp3.1\delegate.genruntimeconfig.cache
